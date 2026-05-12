@@ -1,5 +1,5 @@
 <p align="right">
-  <img src="https://i.pinimg.com/originals/80/6e/de/806ede5583f088c6bdb788bf867f8064.gif" width="1200" style="border-radius: 5"/>
+  <img src="https://x.com/i/status/2048772161863630849" width="1200" style="border-radius: 5"/>
 </p>
 
 <h1 align="center">Hello!</h1>
