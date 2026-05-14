@@ -1,5 +1,5 @@
-<p align="right">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnIzZm0wYWpoYnp6YXhmbXZ2aXc1ZWpoNHJza203cWd3OHR3azUzYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GFmZfoYgmqEkYRgsOL/giphy.gif" width="200" style="border-radius: 5"/>
+<img width="476" height="476" alt="image" src="https://github.com/user-attachments/assets/c4c7f3da-137d-4403-b5b9-53a4098f84df" /><p align="right">
+  <img src="https://www.tumblr.com/asciistudio/160494799655?source=share" width="200" style="border-radius: 5"/>
 </p>
 
 <h1 align="center">Hello!</h1>
