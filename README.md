@@ -1,4 +1,4 @@
-<img width="500" height="500" alt="image" src="https://64.media.tumblr.com/c97556aa0b201435b97fe706e274bb20/tumblr_oppkt2beWh1vi4eyho1_500.gifv" /><p align="center">
+<img width="400" height="400" alt="image" src="https://64.media.tumblr.com/c97556aa0b201435b97fe706e274bb20/tumblr_oppkt2beWh1vi4eyho1_500.gifv" /><p align="center">
   
 </p>
 
