@@ -1,21 +1,24 @@
 <h1 align="center">terminal.exe</h1>
 
-<p align="center">
-┌──────────────────────────────────────────────────────────────┐<br>
-│ 🔴 🟡 🟢 &nbsp; root@oustyy: ~/README.md                    │<br>
-├──────────────────────────────────────────────────────────────┤
-</p>
+<table align="center">
+<tr>
+<td>
 
-<p align="center">
-  <img 
-  src="https://64.media.tumblr.com/c97556aa0b201435b97fe706e274bb20/tumblr_oppkt2beWh1vi4eyho1_500.gif"
-  width="750"
-  />
-</p>
+<div align="center">
 
-<p align="center">
-└──────────────────────────────────────────────────────────────┘
-</p>
+| 🔴 🟡 🟢 | root@oustyy: ~/README.md |
+|---|---|
+
+<img 
+src="https://64.media.tumblr.com/c97556aa0b201435b97fe706e274bb20/tumblr_oppkt2beWh1vi4eyho1_500.gif"
+width="850"
+/>
+
+</div>
+
+</td>
+</tr>
+</table>
 
 <br>
 
@@ -56,6 +59,9 @@
 <hr>
 
 ```bash
-root@oustyy:~$ status
-SYSTEM ONLINE
+root@oustyy:~$ systemctl status profile
+
+● profile.service - Running
+● Status: ONLINE
+● Mode: DEVELOPMENT
 ```
