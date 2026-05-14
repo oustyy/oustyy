@@ -1,5 +1,5 @@
 <img width="476" height="476" alt="image" src="https://github.com/user-attachments/assets/c4c7f3da-137d-4403-b5b9-53a4098f84df" /><p align="right">
-  <img src="https://www.tumblr.com/asciistudio/160494799655?source=share" width="200" style="border-radius: 5"/>
+  <img src="https://64.media.tumblr.com/c97556aa0b201435b97fe706e274bb20/tumblr_oppkt2beWh1vi4eyho1_500.gifv" width="200" style="border-radius: 5"/>
 </p>
 
 <h1 align="center">Hello!</h1>
