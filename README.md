@@ -1,5 +1,5 @@
-<img width="476" height="476" alt="image" src="https://64.media.tumblr.com/c97556aa0b201435b97fe706e274bb20/tumblr_oppkt2beWh1vi4eyho1_500.gifv" /><p align="right">
-  <img src="" width="200" style="border-radius: 5"/>
+<img width="800" height="800" alt="image" src="https://64.media.tumblr.com/c97556aa0b201435b97fe706e274bb20/tumblr_oppkt2beWh1vi4eyho1_500.gifv" /><p align="center">
+  
 </p>
 
 <h1 align="center">Hello!</h1>
